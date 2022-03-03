@@ -5,7 +5,6 @@ Olá 👋, sou Guilherme Mendes Fontes, sou do Rio de Janeiro, RJ. Durante a pan
 ## Curiosidades e Interesses
 
 <ul align="justify">
-  <li>👨🏻‍💻 Quero inicar um curso de graduação na área de tecnologia em um futuro próximo </li>
   <li>💼 Atualmente estou focado em aprender cada vez mais a respeito de <strong>back-end</strong>, estou me especializando cada vez mais sobre o <strong>NodeJS</strong> e utilizando bastante o <strong>Express</strong>. </li>
   <li>🖥️ Quando se trata de <strong>front-end</strong> gosto de utilizar o <strong>ReactJS</strong>, pois gosto de pensar na logica e na reutilização dos componentes. Estou aprendendo a aplicar algumas ferramentas, como o <strong>Redux</strong> e <strong>Hooks</strong>, para facilitar o gerenciamento dos estados e deixar a aplicação mais escalonavél.</li>
   <li>🤖 Estou aprendendo cada vez sobre <strong>testes</strong> e a impotância de desenvolver uma <strong>aplicação voltada para testes</strong>. Para isso estou utilizando o <strong>Jest</strong>, <strong>Mocha</strong> e <strong>Sinon</strong>.</li>
