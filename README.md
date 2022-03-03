@@ -23,6 +23,20 @@ Olá 👋, sou Guilherme Mendes Fontes, sou do Rio de Janeiro, RJ. Durante a pan
   <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
 </div>
 
+## Contato e Redes Sociais
+
+<div>
+  <a style="margin-right: 15px;" href="mailto:guimfontes7@gmail.com" target="_blank">
+    <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?logoWidth=50" />
+  </a>
+  <a style="margin-right: 15px;" href="https://www.linkedin.com/in/guilherme-mendes-fontes/" target="_blank">
+    <img alt="linkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white?logoWidth=50" /> 
+  </a>
+  <a style="margin-right: 15px;" href="https://github.com/guizarolho" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&?logoWidth=50" />
+  </a>
+</div>
+
 <!--
 **guizarolho/guizarolho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
