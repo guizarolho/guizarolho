@@ -1,6 +1,6 @@
 ## Sobre Mim
 
-Olá 👋, sou Guilherme Mendes Fontes, sou do Rio de Janeiro, RJ. Durante a pandemia iniciei a aprendizagem na área da programação, o que de início era um hobby ou uma maneira de me manter intelectualmente ativo acabou se tornando um prospecto de carreira. Hoje, me dedico a estudar para me tornar um Desenvolvedor Full Stack cada dia melhor.
+Olá 👋, sou Guilherme Mendes Fontes, moro no Rio de Janeiro, RJ. Durante a pandemia iniciei a aprendizagem na área da programação, o que de início era um hobby ou uma maneira de me manter intelectualmente ativo acabou se tornando um prospecto de carreira. Hoje, me dedico a estudar para me tornar um Desenvolvedor Full Stack cada dia melhor.
 
 ## Curiosidades e Interesses
 
