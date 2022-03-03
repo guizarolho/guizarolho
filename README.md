@@ -10,7 +10,7 @@ Olá 👋, sou Guilherme Mendes Fontes, sou do Rio de Janeiro, RJ. Durante a pan
   <li>🤖 Estou aprendendo cada vez sobre <strong>testes</strong> e a impotância de desenvolver uma <strong>aplicação voltada para testes</strong>. Para isso estou utilizando o <strong>Jest</strong>, <strong>Mocha</strong> e <strong>Sinon</strong>.</li>
   <li>💬 Adoro ajudar e compartilhar histórias com pessoas, se eu puder te ajudar em algo é só pedir que será um prazer ajudar. </li>
   <li>🚀 Sempre em busca de <strong>aumentar meu conhecimento</strong> e me tornar cada vez mais compentente.</li>
-  <li>:paintbrush: Adoro artes no geral! Pinto e desenho nos meus horários livres.</li>
+  <li>:paintbrush:  Adoro artes no geral! Pinto e desenho nos meus horários livres.</li>
 </ul>
 
 ## Tecnologias e Ferramentas
