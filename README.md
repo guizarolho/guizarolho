@@ -1,16 +1,16 @@
 ## Sobre Mim
 
-Olá 👋, sou Guilherme Mendes Fontes, moro no Rio de Janeiro, RJ. Durante a pandemia iniciei a aprendizagem na área da programação, o que de início era um hobby ou uma maneira de me manter ativo acabou se tornando um prospecto de carreira. Hoje, me dedico a estudar para me tornar um Desenvolvedor Full Stack cada dia melhor.
+Olá 👋, sou Guilherme Mendes Fontes, desenvolvedor Full Stack 🚀, atualmente moro no Rio de Janeiro, RJ.
+Além da programação, gosto de desenhar 🖌️ e dançar 💃.
 
-## Curiosidades e Interesses
+## Projetos e Curiosidades Pessoais
 
 <ul align="justify">
-  <li>💼 Atualmente estou focado em aprender cada vez mais a respeito de <strong>back-end</strong>, estou me especializando cada vez mais sobre o <strong>NodeJS</strong> e utilizando bastante o <strong>Express</strong>. </li>
-  <li>🖥️ Quando se trata de <strong>front-end</strong> gosto de utilizar o <strong>ReactJS</strong>, pois gosto de pensar na logica e na reutilização dos componentes. Estou aprendendo a aplicar algumas ferramentas, como o <strong>Redux</strong> e <strong>Hooks</strong>, para facilitar o gerenciamento dos estados e deixar a aplicação mais escalonavél.</li>
-  <li>🤖 Estou aprendendo sobre <strong>testes</strong> e a importância de desenvolver uma <strong>aplicação voltada para testes</strong>. Para isso estou utilizando o <strong>Jest</strong>, <strong>Mocha</strong> e <strong>Sinon</strong>.</li>
-  <li>💬 Adoro ajudar e compartilhar histórias com pessoas, se eu puder te ajudar em algo é só pedir que será um prazer ajudar. </li>
-  <li>🚀 Sempre em busca de <strong>aumentar meu conhecimento</strong> e me tornar cada vez mais compentente.</li>
-  <li>:paintbrush:  Adoro artes no geral! Pinto e desenho nos meus horários livres.</li>
+  <li> 🌱 Estou atualmente aprendendo Python; </li>
+  <li> 😄 Pronomes: Ele/Dele; </li>
+  <li> 🤔 Tenho interesse em aprender mais sobre design e layout de aplicações. </li>
+  <li> ⭐ Fun-fact: Meu apelido Zarolho que está na URL, é por causa da minha péssima mira em jogos FPS. </li>
+  <li><a href="mailto:guimfontes7@gmail.com" target="_blank">📮 Fale comigo! </a></li>
 </ul>
 
 ## Tecnologias e Ferramentas
