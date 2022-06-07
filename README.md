@@ -9,7 +9,7 @@ Além da programação, gosto de desenhar 🖌️ e dançar 💃.
   <li> 🌱 Estou atualmente aprendendo Python; </li>
   <li> 😄 Pronomes: Ele/Dele; </li>
   <li> 🤔 Tenho interesse em aprender mais sobre design e layout de aplicações. </li>
-  <li> ⭐ Fun-fact: Meu apelido Zarolho que está na URL, é por causa da minha péssima mira em jogos FPS. </li>
+  <li> ⭐ Fun-fact: Meu apelido 'Zarolho' que está na URL, é por causa da minha péssima mira em jogos FPS. </li>
   <li><a href="mailto:guimfontes7@gmail.com" target="_blank">📮 Fale comigo! </a></li>
 </ul>
 
